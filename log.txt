@@ -1,0 +1,2002 @@
+Ho estratto `Bisistal`
+	 da `Glatten dalla Bisistal`
+Ho estratto `Lago`
+	 da `Cima Nord + Cima Orientale di Lago Spalmo`
+Ho estratto `Pejo`
+	 da `cime di Pejo`
+Ho estratto `Cima Madaccio`
+	 da `Cima Madaccio`
+Ho estratto `Parete N`
+	 da `Gran Pilastro - Parete N`
+Ho estratto `Banker`
+	 da `Banker Joch 2830 m`
+Ho estratto `Hochferner`
+	 da `Hochferner/Gran Pilastro: parete nord e discesa per via normale`
+Ho estratto `Monte Leone`
+	 da `Monte Leone e Breithon`
+Ho estratto `M`
+	 da `M. Amaro - Direttissima e canale a ovest della cima`
+Ho estratto `Anellone`
+	 da `Anellone dei Combin e proposta`
+Ho estratto `Dur`
+	 da `Dur Zoccolhorn + video`
+Ho estratto `IL RITORNO`
+	 da `GRAND COMBIN 2, IL RITORNO`
+Ho estratto `Breithorn`
+	 da `Breithorn, Dall'ospizio del Sempione, per l'Homattugletscher`
+Ho estratto `Cima Mengol`
+	 da `Cima Mengol canale N-O`
+Ho estratto `Pizzo Ferrè`
+	 da `Pizzo Ferrè Cima Val Loga`
+Ho estratto `Mont`
+	 da `Gran Becca du Mont - Bec de l'Ane`
+Ho estratto `Gleno`
+	 da `Tre Confini, Gleno, Costone e Tre confini`
+Ho estratto `Monte Cabianca`
+	 da `Monte Cabianca, dalla diga, con discesa dalla Valrossa`
+Ho estratto `Val`
+	 da `Cima di Val Loga, dalla Val Loga`
+Ho estratto `Cima Lago`
+	 da `Cima Lago Lungo, Punta Martello e Rossa di Saent`
+Ho estratto `Combin`
+	 da `Gran Combin (de Grafeneire)`
+Ho estratto `Cima Madaccio`
+	 da `Cima Madaccio e Cima Tukett`
+Ho estratto `Val`
+	 da `Val Mezdì fino a Rif Boe`
+Ho estratto `rocca marmolada`
+	 da `punta rocca marmolada`
+Ho estratto `Hasenöhrl`
+	 da `Hasenöhrl/Orecchia di lepre 3257 m`
+Ho estratto `ORMELUNE`
+	 da `ORMELUNE`
+Ho estratto `Collerin`
+	 da `Punta Collerin`
+Ho estratto `Monte Gleno`
+	 da `Nord del Monte Gleno`
+Ho estratto `Paginone stratosferico`
+	 da `Paginone stratosferico`
+Ho estratto `San Gian`
+	 da `San Gian e Surley`
+Ho estratto `Sas`
+	 da `Sas dai Ciamorces`
+Ho estratto `Chlusmatte`
+	 da `Senggchuppa da Chlusmatte`
+Ho estratto `VALSOREY`
+	 da `GRAND COMBIN DI GRAFENEIRE, DI VALSOREY E DELLA TSESSETTE`
+Ho estratto `CIMON`
+	 da `PASSO DELLE ORTICHE AL CIMON DELLA BAGOZZA`
+Ho estratto `fonte Rionne`
+	 da `Infornace per fonte Rionne`
+Ho estratto `Groesses`
+	 da `Groesses Moseler`
+Ho estratto `Saykogel`
+	 da `Saykogel e Similaun`
+Ho estratto `Giasson`
+	 da `Becca di Giasson, dal Ghiacciaio di Giasson`
+Ho estratto `Vespa`
+	 da `Monte Amaro per il Ravone della Vespa`
+Ho estratto `PASSO PORTELLA`
+	 da `PASSO PORTELLA E CANALINI CEFALONE`
+Ho estratto `Penia`
+	 da `punta Penia`
+Ho estratto `ovest murelle`
+	 da `Canale NE integrale delle murelle + ovest murelle`
+Ho estratto `Marmolafa`
+	 da `Marmolafa Punta Penia 3343 slm`
+Ho estratto `Punte Finale`
+	 da `Punte Finale e Cornacchie`
+Ho estratto `Sas`
+	 da `Sas Ciamorces 2999 m`
+Ho estratto `Cima Presena`
+	 da `Cima Presena`
+Ho estratto `Castellaccio`
+	 da `Castellaccio +cima presena`
+Ho estratto `Colle`
+	 da `Colle Loson e Passo della Mangioire`
+Ho estratto `Colle`
+	 da `Colle Loson e Passo delle Mangioire, per il Vallone di Saulera`
+Ho estratto `MERCANTOUR`
+	 da `GIRO DEL MERCANTOUR`
+Ho estratto `Cima Presena`
+	 da `Cima Presena`
+Ho estratto `Biv`
+	 da `Biv Cecchini`
+Ho estratto `Cima Stotz`
+	 da `Cima Stotz  mt.2887`
+Ho estratto `Avellana`
+	 da `BH-Rava dell'Avellana`
+Ho estratto `arrivo funivia`
+	 da `Lagazuoi arrivo funivia + Croda Negra`
+Ho estratto `Forcella Val`
+	 da `Forcella Val Culea`
+Ho estratto `Corno Stella`
+	 da `Corno Stella - Valgussera`
+Ho estratto `Acquaviva`
+	 da `Acquaviva Sud + Cavone`
+Ho estratto `Ferro+Canale`
+	 da `Rava del Ferro+Canale Intermedio`
+Ho estratto `Mesule`
+	 da `Gran Mesule / Großer Möseler 3474m`
+Ho estratto `Marmolada`
+	 da `Marmolada Punta Rocca 3250m`
+Ho estratto `arrivo funivia`
+	 da `lagazuoi arrivo funivia`
+Ho estratto `Zità`
+	 da `Cima sud de Zità`
+Ho estratto `Forca Rossa`
+	 da `Crode di Forca Rossa`
+Ho estratto `pale rosse`
+	 da `colle delle pale rosse`
+Ho estratto `Pizzo Ferré`
+	 da `Pizzo Ferré (no cima), dalla Val Loga + risalita bivacco`
+Ho estratto `monte Corvo`
+	 da `monte Corvo per il Crivellaro`
+Ho estratto `Kazachstan`
+	 da `scialpinismo in Kazachstan`
+Ho estratto `Monte Vaccaro`
+	 da `Monte Vaccaro`
+Ho estratto `Passo Castellaccio+`
+	 da `Passo Castellaccio+ Presena + video`
+Ho estratto `Monte Amaro`
+	 da `Monte Amaro, discesa dolcissima`
+Ho estratto `Sommeiller`
+	 da `Punta Sommeiller`
+Ho estratto `Grialetsch`
+	 da `Anello del Grialetsch 3007 mt per la Grialetschutte`
+Ho estratto `Passo Castellaccio`
+	 da `Passo Castellaccio + cima Presena`
+Ho estratto `Bagozza`
+	 da `Cimon della Bagozza(passo delle Ortiche)e Campioncino`
+Ho estratto `Monte Rinalpi`
+	 da `Monte Rinalpi (con ripellata), dall'Alpe Borron e la Val Lia`
+Ho estratto `PASSO CASSANDRA`
+	 da `QUOTA 2700 AL PASSO CASSANDRA`
+Ho estratto `Valgussera-Vescovo-Chierico-Corno`
+	 da `Valgussera-Vescovo-Chierico-Corno Stella-Val Cerviera`
+Ho estratto `None`
+	 da `Tamborello quasi`
+Ho estratto `M`
+	 da `M. Venezia 3290m e discesa del Pisgana`
+Ho estratto `Collalto`
+	 da `Tavola Rotonda - Canali di Collalto`
+Ho estratto `M`
+	 da `M PESCOFALCONE 2663m Ferro e Pisciarello`
+Ho estratto `Canale Bissolati`
+	 da `Corno Grande e discesa Canale Bissolati`
+Ho estratto `Saykogel`
+	 da `Saykogel 3360m`
+Ho estratto `Maiella`
+	 da `Maiella - Rava Della Giumenta Bianca`
+Ho estratto `Monte Corvo`
+	 da `Monte Corvo discesa fosso del Monte`
+Ho estratto `SCRIMONE`
+	 da `SCRIMONE (solo per info neve)`
+Ho estratto `Saldura`
+	 da `Passo di Saldura`
+Ho estratto `Gusela`
+	 da `Gusela e M. Nuvolau`
+Ho estratto `Cima Presena`
+	 da `Cima Presena`
+Ho estratto `San Simone`
+	 da `Passo San Simone - Val Terzera - Siltri - Forcella Rossa - Camoscio`
+Ho estratto `Vaudala`
+	 da `Punta Calabre e Gran Vaudala`
+Ho estratto `Barmaverain`
+	 da `Punta Barmaverain, dal Ghiacciaio di Giasson e la cresta W`
+Ho estratto `M`
+	 da `M. Faraut 3046 m`
+Ho estratto `telefono P.so`
+	 da `G.S. trovato telefono P.so delle scalette`
+Ho estratto `Ischiator`
+	 da `Becco alto di Ischiator - Cima del Corborant`
+Ho estratto `maniglia buc`
+	 da `Marchisa faraut maniglia buc faraut`
+Ho estratto `Terminillo`
+	 da `Terminillo, Canalone Nord`
+Ho estratto `Lavassey`
+	 da `Punta Lavassey da gran Vaudala (2772)`
+Ho estratto `Majellino`
+	 da `Majellino d'oro`
+Ho estratto `Rocca`
+	 da `Rocca Negra - Cima di Malaterra Sud`
+Ho estratto `Mont`
+	 da `Mont Blanc de Cheilon, dal Pas de Chèvre e il Glacier de Cheilon`
+Ho estratto `Gennipass`
+	 da `Rinderhorn da Gennipass`
+Ho estratto `Pizzo Ferré`
+	 da `Pizzo Ferré, dalla Val Loga+video`
+Ho estratto `Cucchiaio m.2445`
+	 da `Monte Rapina e Cucchiaio m.2445`
+Ho estratto `M`
+	 da `M. Rotondo (per la Rava del Ferro e i Tre Portoni)`
+Ho estratto `P.Sommelier`
+	 da `P.Sommelier - P.D'Ambin - Cima dei Fourneaux - Truc peyrous - Cima di Vallonetto`
+Ho estratto `Bassac`
+	 da `Punta Bassac Sud (quota meridionale)`
+Ho estratto `Grand`
+	 da `Grand Tournalin SA2 BG`
+Ho estratto `Saoseo`
+	 da `Cima di Saoseo, dalla Val Cantone di Dosdé`
+Ho estratto `Rossa`
+	 da `Punta Rossa della Grivola, da Cretaz, per il Vallone di Pousset`
+Ho estratto `canale Schenatti`
+	 da `Monte Disgrazia, canale Schenatti -Fotoreport`
+Ho estratto `MARGHERITA`
+	 da `PUNTA GNIFETTI-CAPANNA MARGHERITA`
+Ho estratto `canale Schenatti`
+	 da `Monte Disgrazia canale Schenatti`
+Ho estratto `bivacco Sberna`
+	 da `Gran Paradiso e bivacco Sberna`
+Ho estratto `Piz`
+	 da `Piz d' Emmat Dadaint`
+Ho estratto `Arbola`
+	 da `Punta d'Arbola  (Ofenhorn)  mt. 3235`
+Ho estratto `Monte Leone`
+	 da `Monte Leone 3553m e Breithorn 3438m`
+Ho estratto `Camicia`
+	 da `Monta Camicia`
+Ho estratto `cima Beil`
+	 da `Hintere Kitzkogel (cima Beil Spitze) 3058m`
+Ho estratto `Truc`
+	 da `Truc Blanc 3405 e Becca di Giasson 3202`
+Ho estratto `corno grande`
+	 da `corno grande e bissolati`
+Ho estratto `Neviera`
+	 da `Monte Sirente - Salita dalla Neviera e discesa dal Maiori`
+Ho estratto `Rapina-Pescofalcone`
+	 da `Rapina-Pescofalcone`
+Ho estratto `Monte Ormelune`
+	 da `Monte Ormelune (3278)`
+Ho estratto `Balmenhorn`
+	 da `Balmenhorn - Cristo delle Vette`
+Ho estratto `Montandayné`
+	 da `Becca di Montandayné, dalla Valsavaranche`
+Ho estratto `Gnifetti`
+	 da `Punta Gnifetti - Capanna Margherita`
+Ho estratto `Anello Scalettahorn`
+	 da `GRIALETSCH 3131mt - Anello Scalettahorn/Dischmatal`
+Ho estratto `Roccia della Scoperta`
+	 da `Roccia della Scoperta`
+Ho estratto `Coca`
+	 da `pizzo di Coca canale NO`
+Ho estratto `Cima Aiguilette`
+	 da `Cima Aiguilette giro ad anello`
+Ho estratto `Bassac`
+	 da `Bassac Sud e Grand Traversiere`
+Ho estratto `Guertelwand`
+	 da `Guertelwand (2836 ) - Croda della Cintola e Schoennenkofel (2583)`
+Ho estratto `Vradda`
+	 da `Monte Camicia da Fonte Vetica per Vallone di Vradda e Paginone`
+Ho estratto `finoa q`
+	 da `Hochschober 3240 tentativo finoa q. 2935`
+Ho estratto `2463m`
+	 da `Punto q 2463m e Cucchiaio`
+Ho estratto `cima Denza`
+	 da `cima Denza 3162 e cimaCornisello 3158`
+Ho estratto `Giro Gran`
+	 da `Giro Gran Paradiso con varianti`
+Ho estratto `Erzlahnscharte`
+	 da `Erzlahnscharte/Forcellone`
+Ho estratto `mengol surprise`
+	 da `mengol surprise`
+Ho estratto `Moiazzetta`
+	 da `Vant della Moiazzetta della Grava`
+Ho estratto `Paradiso freddo`
+	 da `Gran Paradiso freddo, freddo, freddo!`
+Ho estratto `Piz`
+	 da `Piz tambo`
+Ho estratto `Pizzo Coca`
+	 da `Pizzo Coca canale NO`
+Ho estratto `Terra nera`
+	 da `Terra nera`
+Ho estratto `Cima Brenta`
+	 da `Cima Brenta da Spallone Massodi`
+Ho estratto `Piz`
+	 da `Piz Surgonda, per la Val d'Agnel`
+Ho estratto `picca Quark`
+	 da `Basodino dall'Acqua (persa picca Quark)`
+Ho estratto `Lago`
+	 da `Cima di Lago Spalmo`
+Ho estratto `Giasson`
+	 da `Becca di Giasson, dal Ghiacciaio di Giasson`
+Ho estratto `Piz`
+	 da `Piz di Val Nera`
+Ho estratto `None`
+	 da `Col perduto`
+Ho estratto `Piz`
+	 da `Piz Palù da Campo Moro`
+Ho estratto `Giasson`
+	 da `Becca di Giasson, dal Ghiacciaio di Giasson`
+Ho estratto `Monte Gleno`
+	 da `Monte Gleno e Monte Costone per il Vallone del Trobio`
+Ho estratto `Surrier`
+	 da `Lasciati 2 sacchi a pelo a Surrier/Usellieres`
+Ho estratto `Canale Miniera`
+	 da `Camicia- Salita: Vradda+Omo Morto,Discesa: Paginone + Canale Miniera`
+Ho estratto `Direttissima-Bissolati`
+	 da `Direttissima-Bissolati`
+Ho estratto `Heachenberg`
+	 da `Heachenberg`
+Ho estratto `Bianca`
+	 da `Punta Bianca - Hoher Weißzint (q.3290m)`
+Ho estratto `Moiazzetta`
+	 da `Vant della Moiazzetta della Grava (attacco Sasse q. 2505)`
+Ho estratto `becca du`
+	 da `Gran becca du mont da surier (quasi)`
+Ho estratto `Paradiso con Cima`
+	 da `Tour del Gran Paradiso con Cima di Roccia Viva`
+Ho estratto `Cima Gavia`
+	 da `Sforzellina + Cima Gavia`
+Ho estratto `Cima Viezzena`
+	 da `Cima Viezzena ( m. 2490)`
+Ho estratto `bocca laghetto`
+	 da `bocca laghetto`
+Ho estratto `VettaW-Bissolati-Scrimone`
+	 da `Corno Grande VettaW-Bissolati-Scrimone (variante)`
+Ho estratto `Vallone Crivellaro`
+	 da `Monte Corvo - Vallone Crivellaro`
+Ho estratto `Sella Ursic`
+	 da `Sella Ursic e Sella Bila Pec [VIDEO]`
+Ho estratto `Piz`
+	 da `Piz Surlej + risalita pista`
+Ho estratto `Casamadre`
+	 da `Passo Tonale Passo di Casamadre e dintorni`
+Ho estratto `Boivere`
+	 da `Pointe de Boivere, Face Nord-Est`
+Ho estratto `RESEDA-MADONNINO-CABIANCA-VALROSSA`
+	 da `RESEDA-MADONNINO-CABIANCA-VALROSSA`
+Ho estratto `M`
+	 da `M. Prado: canale Y dei Porci e diretta NNO`
+Ho estratto `Pizzo Intermesoli`
+	 da `Pizzo Intermesoli 2635m(La Traversata)`
+Ho estratto `M`
+	 da `M. Corvo e il Campiglione`
+Ho estratto `Oberettes`
+	 da `Punta Oberettes - canale nord est`
+Ho estratto `Giau`
+	 da `Ancora Giau f.lee Laschiesuoi e Ra Leina`
+Ho estratto `Pizzo Ferré`
+	 da `Pizzo Ferré, dalla Val Loga`
+Ho estratto `sud Aquaviva-v`
+	 da `diretta sud Aquaviva-v mandrelle-Mammoccio.`
+Ho estratto `Testa Grigia`
+	 da `Testa Grigia e Gran Cima`
+Ho estratto `Tacul`
+	 da `Col du Tacul, Couloir Sud-Ovest`
+Ho estratto `val Loga`
+	 da `cima di val Loga settentrionale`
+Ho estratto `GLETSCHER`
+	 da `GLETSCHER DUCAN 3020 - colle dell'Hoch Ducan 2600 ( VIDEO )`
+Ho estratto `Fosso del Cavone`
+	 da `Fosso del Cavone`
+Ho estratto `Chabod`
+	 da `Gran paradiso per il rif. Chabod, Fotoreport`
+Ho estratto `Traversata Sud-Nord`
+	 da `Gruppo di Brenta - Traversata Sud-Nord`
+Ho estratto `Piz`
+	 da `Piz d'Agnel dalla Val Natons`
+Ho estratto `Scopì`
+	 da `Scopì + video`
+Ho estratto `ADAMELLO`
+	 da `ADAMELLO dalla Val Miller`
+Ho estratto `Valcervia`
+	 da `Cima Tonale, dal passo di Valcervia`
+Ho estratto `ROCCIA BAITONE`
+	 da `ROCCIA BAITONE - Via Chiaudano sci ripido`
+Ho estratto `Cima centrale`
+	 da `Cima centrale di val loga`
+Ho estratto `giro orario`
+	 da `giro orario del blinnenhorn`
+Ho estratto `Pizzo Regina`
+	 da `Pizzo Regina, l’incantesimo e la drag queen`
+Ho estratto `Hintere`
+	 da `Monte Agnello di Dentro -  Hintere Kitzkogel`
+Ho estratto `Traversata Sud-Nord`
+	 da `Gruppo d Brenta - Traversata Sud-Nord`
+Ho estratto `Monte Brancastello`
+	 da `Monte Brancastello, traversata per Malopasso (trovata telecamera...)`
+Ho estratto `3273m`
+	 da `Monte Magro 3273m e Fernerköpfl 3249m`
+Ho estratto `Ferrari`
+	 da `Rava dei Ferrari`
+Ho estratto `val venacquaro`
+	 da `traversata pizzo intermesoli val venacquaro`
+Ho estratto `Kempel`
+	 da `Vallone del Kempel`
+Ho estratto `Monte Verdal`
+	 da `Monte Verdal e canale nord Loschiesuoi`
+Ho estratto `Suretta`
+	 da `Suretta ( per il canale Sud)`
+Ho estratto `parete ovest`
+	 da `Pizzo di emet via diretta parete ovest`
+Ho estratto `Palla Bianca`
+	 da `Palla Bianca - Punta Vallelunga`
+Ho estratto `Fop`
+	 da `Cima del Fop (quasi) dal passo del Re`
+Ho estratto `Grosses`
+	 da `Monch mt 4.107, Grosses Fiescherhorn mt 4.048, Hinter Fiescherhorn mt 4.025, Jungfrau mt 4.158`
+Ho estratto `Fleckistock`
+	 da `Fleckistock, NE Wand, couloir "Sickinelli"`
+Ho estratto `Gross`
+	 da `Gross Spannort, dalla Meiental, per il Rossfirn`
+Ho estratto `Piz`
+	 da `Piz Platta da Val d'Avers`
+Ho estratto `Parete N-E`
+	 da `Sengchuppa Parete N-E`
+Ho estratto `Grubengletscher`
+	 da `Fletschhorn dal Grubengletscher`
+Ho estratto `Alpe`
+	 da `Pizzo Scalino, dall'Alpe Campagneda`
+Ho estratto `Gürtelwand`
+	 da `Croda della Cintola o Gürtelwand`
+Ho estratto `Cima Accla`
+	 da `Cima Accla - Agglsspitz 3194m`
+Ho estratto `Sirente`
+	 da `Gemello sinistro e Tempio (nord del Sirente)`
+Ho estratto `Cucchiaio Piccolo`
+	 da `Pizzo Cucchiaio Piccolo - Kleiner Loeffelspitz - m 3050`
+Ho estratto `Breithorn Occidentale`
+	 da `Breithorn Occidentale e Centrale`
+Ho estratto `Zebrù-Konigspitze`
+	 da `Gran Zebrù-Konigspitze 3957 m`
+Ho estratto `Scrimone`
+	 da `Corno Grande, per il Calderone e discesa per lo Scrimone`
+Ho estratto `NORDEND`
+	 da `NORDEND - GRUPPO MONTE ROSA`
+Ho estratto `Pescofalcone`
+	 da `Pescofalcone per la Rava del Ferro`
+Ho estratto `Hochegg`
+	 da `Monte Alto  (Hochegg)  2857 mt.`
+Ho estratto `Concatenamento Intermesoli`
+	 da `Concatenamento Intermesoli e Corvo`
+Ho estratto `PIZZO S`
+	 da `PIZZO S GABRIELE (go home)`
+Ho estratto `Malavalle`
+	 da `Cima di Malavalle`
+Ho estratto `None`
+	 da `Rossgruben 2400 m`
+Ho estratto `Weisszint`
+	 da `Weisszint: persa piccozza! Pickel verloren!`
+Ho estratto `Canalone Stilon`
+	 da `Canalone Stilon`
+Ho estratto `Lobbia`
+	 da `Passo Tonale  Lobbia Alta`
+Ho estratto `monte Camicia`
+	 da `monte Camicia`
+Ho estratto `Colle`
+	 da `Colle della Croce di Arpy`
+Ho estratto `Canale Maiori`
+	 da `Il Monte Sirente per il Canale Maiori (Valle Inserrata)`
+Ho estratto `Croz`
+	 da `Croz di Ricolonda 2984`
+Ho estratto `Prefouns`
+	 da `Giro dei Prefouns (Testa Margiola 2831m)`
+Ho estratto `Monte Camicia`
+	 da `Monte Camicia`
+Ho estratto `F.laa`
+	 da `F.laa Laschiesioi e F,.lla  Giau`
+Ho estratto `Pizzo Intermesoli`
+	 da `Pizzo Intermesoli, canale a Esse`
+Ho estratto `Kolbenspitze`
+	 da `Kolbenspitze/La Clava 2868 m`
+Ho estratto `Chateau`
+	 da `Chateau des Dames, dalla Valtournanche, con anello per il Colle della Bella Tza`
+Ho estratto `ALPHUBEL`
+	 da `ALPHUBEL`
+Ho estratto `Boshorn`
+	 da `q. 2952 del Boshorn`
+Ho estratto `Mastaun`
+	 da `Mastaun 3200m`
+Ho estratto `Mont`
+	 da `Mont Labiez`
+Ho estratto `Bresses`
+	 da `Testa Sud di Bresses per il Colletto di Valasco`
+Ho estratto `Nuvolau`
+	 da `Gusela di Nuvolau 2595 e Nuvolau 2575`
+Ho estratto `Piz`
+	 da `Piz de la Margna`
+Ho estratto `Monte Basodino`
+	 da `Monte Basodino`
+Ho estratto `Piz`
+	 da `Piz Punt Ota + Piz Vadret Pitschen (quasi)`
+Ho estratto `Cima del tempo`
+	 da `Cima del tempo`
+Ho estratto `Cima dell`
+	 da `Cima dell accla(aglsspitze)`
+Ho estratto `Monte muro`
+	 da `Monte muro(maurerspitze)`
+Ho estratto `Tza`
+	 da `Tour de la Tza`
+Ho estratto `SMARRITO ARVA`
+	 da `SMARRITO ARVA Caldenave 19 marzo 2017`
+Ho estratto `Monte Malinvern`
+	 da `Monte Malinvern`
+Ho estratto `Cima Barba`
+	 da `Cima Barba d'Orso di Fuori`
+Ho estratto `Piz`
+	 da `Piz Surgonda`
+Ho estratto `Traversata del Mengol`
+	 da `Traversata del Mengol`
+Ho estratto `Corleans`
+	 da `Cresta di Corleans`
+Ho estratto `moseler`
+	 da `gran moseler`
+Ho estratto `Pizzo Tresero`
+	 da `Pizzo Tresero (tentativo)`
+Ho estratto `San Gian`
+	 da `Piz San Gian da S.Moritz Bad`
+Ho estratto `Piz`
+	 da `Piz MURTAIRA`
+Ho estratto `cresta croce`
+	 da `cresta croce`
+Ho estratto `Val`
+	 da `Val Sissone verso il PASSO DI MELLO`
+Ho estratto `Cima Val`
+	 da `Cima Val Loga x 3`
+Ho estratto `Piz`
+	 da `Piz Surparé, da Stalveder`
+Ho estratto `Piz`
+	 da `Piz St. Gian`
+Ho estratto `Alpetlistock+Tanatzhohi`
+	 da `Alpetlistock+Tanatzhohi`
+Ho estratto `Sass`
+	 da `Sass Ciamorces`
+Ho estratto `picco`
+	 da `picco dei tre signori`
+Ho estratto `Mandrelle`
+	 da `Cma delle Mandrelle o Sala del Monaco`
+Ho estratto `Moregna`
+	 da `Antecima di Moregna`
+Ho estratto `Cima Bianca`
+	 da `Hohe Weiße/Cima Bianca Grande 3278 m`
+Ho estratto `Savoretta`
+	 da `cima di Savoretta 3053 m`
+Ho estratto `Monte Croce`
+	 da `Alta di Monte Croce (quasi) da strada del Rombo`
+Ho estratto `Cintola`
+	 da `Croda della Cintola`
+Ho estratto `monte Nevoso`
+	 da `monte Nevoso`
+Ho estratto `zaino al parcheggio`
+	 da `Oberettes dimenticato zaino al parcheggio`
+Ho estratto `Flla`
+	 da `Flla Spitzhornscharte 2460 m`
+Ho estratto `traversata E-N`
+	 da `Loschiesuoi 2626 - traversata E-N + Col Pionbin 2313 m`
+Ho estratto `Stubai`
+	 da `4 cime nello Stubai`
+Ho estratto `Piz`
+	 da `Piz da la Margna canale Nord`
+Ho estratto `Chaputschin`
+	 da `Il Chaputschin, da Furtschellas (2820)`
+Ho estratto `Piz`
+	 da `Piz da la Margna, dal canalone Nord`
+Ho estratto `Val`
+	 da `Bivacco Cecchini o Val Loga`
+Ho estratto `Piz`
+	 da `Piz Lagrev`
+Ho estratto `Piz`
+	 da `Piz Surgonda`
+Ho estratto `Monte Confinale+Costa`
+	 da `Monte Confinale+Costa Manzina`
+Ho estratto `la Mare`
+	 da `Palon de la Mare`
+Ho estratto `Piz`
+	 da `Piz da la Margna, dal canalone Nord`
+Ho estratto `Nana m`
+	 da `Becca de Nana m. 3010`
+Ho estratto `Zwächten`
+	 da `Zwächten`
+Ho estratto `Grosshorn`
+	 da `Grosshorn e Chli Hureli`
+Ho estratto `Pizzo Berro`
+	 da `Pizzo Berro e il dolce sci novo`
+Ho estratto `Maratschspitz`
+	 da `Maratschspitz 2648 m`
+Ho estratto `Cima Trieste`
+	 da `Cima Trieste (x forcella Trento e Trieste).`
+Ho estratto `Ellesspitze`
+	 da `Ellesspitze`
+Ho estratto `Cima Cece`
+	 da `Cima Cece ( m 2754)`
+Ho estratto `Monte Agnello`
+	 da `Monte Agnello di dentro`
+Ho estratto `Monte Corvo`
+	 da `Traversata del Monte Corvo`
+Ho estratto `spitz`
+	 da `valbenair spitz`
+Ho estratto `Monte Priora`
+	 da `Monte Priora 2352m`
+Ho estratto `Altaretto`
+	 da `Altaretto (+canale nord, -canale sud) e Rondinaio`
+Ho estratto `Corno Grande`
+	 da `Corno Grande dal Calderone`
+Ho estratto `Monte Corvo`
+	 da `Monte Corvo`
+Ho estratto `Pizzo Rosso`
+	 da `Untere Rotspitze (Pizzo Rosso Piccolo) 3290 m`
+Ho estratto `Sasso`
+	 da `Gran Sasso /Valle dei Ginepri`
+Ho estratto `Angeli`
+	 da `Pra dei Angeli`
+Ho estratto `giunta bianca`
+	 da `Rava della giunta bianca`
+Ho estratto `Monte Benon`
+	 da `Livezze – Val del Vento – Monte Benon`
+Ho estratto `Misurina`
+	 da `Cima Cadin di Misurina (Punta Sud)`
+Ho estratto `Masenade`
+	 da `Cresta delle Masenade`
+Ho estratto `Forcelle`
+	 da `Forcelle del giau`
+Ho estratto `Tresero`
+	 da `Tresero`
+Ho estratto `Val`
+	 da `Cima di Val Loga Settentrionale`
+Ho estratto `Cresta Croce-Cannone`
+	 da `Lobbia -Cima Cresta Croce-Cannone -Corno Bianco`
+Ho estratto `Entrelor`
+	 da `Entrelor(anticima)`
+Ho estratto `Surgonda`
+	 da `Smarriti occhiali vista al Surgonda`
+Ho estratto `via Cieri`
+	 da `Infornace per la via Cieri + Cima delle Veticole`
+Ho estratto `Oberettes`
+	 da `Oberettes - canale est`
+Ho estratto `Pizzo Tresero`
+	 da `Pizzo Tresero 3594m`
+Ho estratto `Botzer`
+	 da `Botzer/Capro`
+Ho estratto `Sassofratto`
+	 da `Sassofratto: cose importanti e canale nordest`
+Ho estratto `Rondinaio`
+	 da `Rondinaio e Giovo`
+Ho estratto `Ahrner`
+	 da `Ahrner Kopf (Cima del Vento)`
+Ho estratto `Monte Prena`
+	 da `Monte Prena, vallone di Fossaceca`
+Ho estratto `Schwemser`
+	 da `Schwemser/Oberettes 3459 m`
+Ho estratto `kitzkogel`
+	 da `hinterer kitzkogel`
+Ho estratto `Valle`
+	 da `Monte Sponda Vaga, per la Valle dell'Asta`
+Ho estratto `Lares`
+	 da `Passo Tonale -Lobbia -Crozzon di Lares`
+Ho estratto `Palù`
+	 da `Pizzo della Palù`
+Ho estratto `Alphubel`
+	 da `Alphubel mt. 4.206`
+Ho estratto `Pizzo Emet`
+	 da `Pizzo Emet, pizzo della Palù, passo dei laghi neri`
+Ho estratto `cima venezia-pisgana`
+	 da `cima venezia-pisgana`
+Ho estratto `Zebru`
+	 da `Gran Zebru' dal canale delle Pale Rosse con discesa dalla normale`
+Ho estratto `Cagamei`
+	 da `Cima occidentale di Cagamei, per il canalone del Druet`
+Ho estratto `Monte Agnello`
+	 da `Monte Agnello di dentro`
+Ho estratto `ZebruKoenigsspitze`
+	 da `Gran ZebruKoenigsspitze - Canale delle Pale Rosse e discesa dalla Via Normale`
+Ho estratto `Vento 2755m`
+	 da `Cima del Vento 2755m`
+Ho estratto `Van`
+	 da `Van dei Gravinai`
+Ho estratto `Ferrari`
+	 da `Rava dei Ferrari`
+Ho estratto `Piz`
+	 da `Piz da la Margna - canale nord`
+Ho estratto `PISCHAHORN m.2985`
+	 da `PISCHAHORN m.2985`
+Ho estratto `Clogstafel`
+	 da `Punta Clogstafel, dal rif. Margaroli, per il lago del Vannino`
+Ho estratto `Pizzo Rotondo`
+	 da `Tour del Pizzo Rotondo`
+Ho estratto `Piz`
+	 da `Piz da la Margna 3159m`
+Ho estratto `Norvegia`
+	 da `Norvegia Skifjord`
+Ho estratto `Canale Abbate`
+	 da `Cima Palazzo o Castellina (salita Neviera;discesa Canale Abbate)`
+Ho estratto `ghiacciaio antelao`
+	 da `forcella del ghiacciaio antelao`
+Ho estratto `Rava`
+	 da `Il Monte Amaro per la Rava del Ferro e il Canalino Intermedio`
+Ho estratto `cima bianca`
+	 da `howe weiss cima bianca alta`
+Ho estratto `Pizzo Scalino`
+	 da `Pizzo Scalino 3323 m`
+Ho estratto `Trieste`
+	 da `Punta Trieste e Tavola`
+Ho estratto `Cimone`
+	 da `Cimone`
+Ho estratto `sud Aquaviva-v`
+	 da `Parete sud Aquaviva-v mandrelle e cavone`
+Ho estratto `Marmolada`
+	 da `Marmolada Punta Penia (la Regina delle Dolomiti)`
+Ho estratto `Botzer`
+	 da `Botzer/Il Capro 3251 m`
+Ho estratto `Cima Marmotta`
+	 da `Cima Marmotta`
+Ho estratto `Monte Azzarini`
+	 da `Monte Azzarini`
+Ho estratto `Arp`
+	 da `Arp vielle`
+Ho estratto `KITZKOGEL`
+	 da `KITZKOGEL`
+Ho estratto `Tresero`
+	 da `Tresero`
+Ho estratto `Zebru`
+	 da `gran Zebru`
+Ho estratto `Cima Barba`
+	 da `Cima Barba d'Orso di Dentro`
+Ho estratto `Camicia`
+	 da `Camicia`
+Ho estratto `Madriccio`
+	 da `Punta Madriccio`
+Ho estratto `WETTERSPITZ`
+	 da `WETTERSPITZ m. 2709`
+Ho estratto `Monte Ursic`
+	 da `Bila Pec - Foro di Ursic - Forcella Tedesca - Monte Ursic`
+Ho estratto `Val`
+	 da `Cima di Val Bona`
+Ho estratto `TransRosa`
+	 da `TransRosa Speed Tour`
+Ho estratto `PIZ`
+	 da `PIZ VADRET`
+Ho estratto `Piz`
+	 da `Piz d'Agnel - Piz Tranter Ovas - Piz Surgonda`
+Ho estratto `SASSAL`
+	 da `SASSAL MASON 2988 - discesa diretta Lago Bianco del Bernina ( VIDEO )`
+Ho estratto `Skyalp`
+	 da `Skyalp del Brenta`
+Ho estratto `Traversata P`
+	 da `Parete nord Cime Nere & Traversata P. di Finale`
+Ho estratto `Passo Venezia`
+	 da `Passo Venezia (pisgana )`
+Ho estratto `San Giacomo`
+	 da `Cima San Giacomo`
+Ho estratto `Pisganino`
+	 da `Pisganino`
+Ho estratto `Fuori_tentativo`
+	 da `Barba d'Orso di Fuori_tentativo`
+Ho estratto `Rava`
+	 da `Monte Amaro: salita per la Rava del Ferro e discesa per la Rava della Vespa`
+Ho estratto `M`
+	 da `M. Prado: Clessidra alpinistica e canali del Sassofratto`
+Ho estratto `Antecima`
+	 da `Antecima Groste'`
+Ho estratto `Turnerkamp`
+	 da `Turnerkamp - Cima di Campo 3418m`
+Ho estratto `Oberettes`
+	 da `Punta di Oberettes`
+Ho estratto `Sebastiani`
+	 da `2 giorni al Velino 2° giorno Velino dal Sebastiani`
+Ho estratto `giorno Colle`
+	 da `2 giorni al Velino 1° giorno Colle dell'Orso e Sebastiani`
+Ho estratto `Antelao_attacco`
+	 da `Ghiacciaio superiore Antelao_attacco Menini`
+Ho estratto `Prado`
+	 da `Monte Cipolla (Prado)`
+Ho estratto `Punta a.2502`
+	 da `Punta a.2502 sopra f.lla giau`
+Ho estratto `smarriti occhiali`
+	 da `Forcella della Neve - smarriti occhiali`
+Ho estratto `kitzkogel`
+	 da `hinterer kitzkogel`
+Ho estratto `Forcella Riofreddo`
+	 da `Forcella Riofreddo`
+Ho estratto `Trieste`
+	 da `Punta Trieste`
+Ho estratto `Misurina`
+	 da `Cima Cadin di Misurina (Punta sud), 2660m c.`
+Ho estratto `Großvenediger`
+	 da `Großvenediger e Großer Geiger skitour`
+Ho estratto `Piz`
+	 da `Piz Calderas - Piz Err`
+Ho estratto `Bruschghorn`
+	 da `Bruschghorn`
+Ho estratto `M.Pasquale`
+	 da `M.Pasquale`
+Ho estratto `Papa Giovanni`
+	 da `Cima Papa Giovanni Paolo II e Pizzo Scalino`
+Ho estratto `lago Campelli`
+	 da `Cima di Valrossa e discesa verso il lago Campelli`
+Ho estratto `Piz`
+	 da `Piz alv+piz minor`
+Ho estratto `Pizzo Tresero`
+	 da `Pizzo Tresero`
+Ho estratto `Pizzo Tambò`
+	 da `Pizzo Tambò (senza cima)`
+Ho estratto `Zebrù`
+	 da `Gran Zebrù, dal Canale delle Pale Rosse, con discesa dalla normale`
+Ho estratto `RE DI CASTELLO`
+	 da `RE DI CASTELLO`
+Ho estratto `Flix`
+	 da `Tschima da Flix + Surgonda`
+Ho estratto `Timogno`
+	 da `Timogno, da Spiazzi di Boario`
+Ho estratto `Monte Pasquale`
+	 da `Monte Pasquale`
+Ho estratto `Piz`
+	 da `Piz Caputschin da Furtschellas`
+Ho estratto `Pizzo Scalino`
+	 da `Pizzo Scalino`
+Ho estratto `Corno Stella`
+	 da `Corno Stella anticima`
+Ho estratto `Cima di valcervia`
+	 da `Cima di valcervia`
+Ho estratto `Mittaghorn`
+	 da `Mittaghorn e Splugenpass`
+Ho estratto `Chilchalphorn`
+	 da `Chilchalphorn`
+Ho estratto `Cimone`
+	 da `Costone Tra Cimone e Tre Confini`
+Ho estratto `Vallone Bianco`
+	 da `M Porrara e Vallone Bianco`
+Ho estratto `Piana Campitelli`
+	 da `Monte Miele 1942 m dalla Piana Campitelli`
+Ho estratto `Rif`
+	 da `Traversata da Rif. Pomilio a Fara S. Martino per il Sant'Angelo`
+Ho estratto `il colpo`
+	 da `Pizzo 3 Vescovi e il colpo quasi perfetto`
+Ho estratto `Macellaro`
+	 da `Monta Macellaro`
+Ho estratto `Monte Cafornia`
+	 da `Monte Cafornia`
+Ho estratto `Monte Muro`
+	 da `Monte Muro`
+Ho estratto `Forca Rossa`
+	 da `Forca Rossa del Pelmo`
+Ho estratto `Palombaro`
+	 da `Palombaro`
+Ho estratto `Monte Castello`
+	 da `Monte Castello`
+Ho estratto `val gioveretto`
+	 da `ebenes jochl, val gioveretto`
+Ho estratto `Elles`
+	 da `Punta Elles`
+Ho estratto `Cime Cadine`
+	 da `Cime Cadine`
+Ho estratto `PescoFalcone`
+	 da `PescoFalcone per la rava Fraticello`
+Ho estratto `Ovest Rotondo`
+	 da `Ovest Rotondo +rava diablo`
+Ho estratto `Ahrner`
+	 da `Cima del Vento / Ahrner Kopf 3051m`
+Ho estratto `Pelf`
+	 da `Pelf`
+Ho estratto `Passo della Sentinella`
+	 da `Passo della Sentinella`
+Ho estratto `None`
+	 da `Heachenberg 2650`
+Ho estratto `Percorso Ski`
+	 da `Cima Sella m 2917 (Percorso Ski Alp)`
+Ho estratto `Cima d' Asta`
+	 da `Cima d'Asta`
+Ho estratto `Forcella Loschiesuoi+Torre`
+	 da `Forcella Loschiesuoi+Torre Piazzesi`
+Ho estratto `SELLARONDA`
+	 da `SELLARONDA SKIMARATON`
+Ho estratto `Sellaronda`
+	 da `Sellaronda Skimarathon`
+Ho estratto `Cerasa`
+	 da `Costone della Cerasa 2119 m`
+Ho estratto `Prena`
+	 da `Prena (salita Fornaca;discesa Laghetti)`
+Ho estratto `triglav`
+	 da `triglav`
+Ho estratto `quota 1980m`
+	 da `Salmurano quota 2000m + arrivo impianti quota 1980m`
+Ho estratto `Morrone`
+	 da `Morrone: salita Rava della Cesa , discesa Rava del Vauzo`
+Ho estratto `Vallone Vradda`
+	 da `Monte Camicia dal Vallone Vradda`
+Ho estratto `M.Aquila`
+	 da `Canale del Tempio, M.Aquila, Duca degli Abruzzi`
+Ho estratto `Monte Amaro`
+	 da `Il Monte Amaro per la Direttissima`
+Ho estratto `valle dei briganti`
+	 da `Monte Velino (per la valle dei briganti)`
+Ho estratto `Pizzo`
+	 da `Pizzo Di Moscio`
+Ho estratto `il Paginone`
+	 da `Camicia, il Paginone`
+Ho estratto `Camicia`
+	 da `Camicia salita Omo morto-discesa Paginone`
+Ho estratto `Montebello`
+	 da `Montebello`
+Ho estratto `Sas`
+	 da `Sas dai Ciamorces 2999`
+Ho estratto `Galisia`
+	 da `p.ta di Galisia per il col de Basagne`
+Ho estratto `Porola`
+	 da `pizzo di Porola`
+Ho estratto `Colere`
+	 da `Pizzo di Petto e Chalet da Colere`
+Ho estratto `MANIVA`
+	 da `MANIVA`
+Ho estratto `Timogno`
+	 da `Timogno, da Spiazzi di Boario`
+Ho estratto `Islanda`
+	 da `Islanda Skifjord`
+Ho estratto `Ullstinden`
+	 da `Ullstinden (cima sud)`
+Ho estratto `Morrone-Monte`
+	 da `Morrone-Monte Le Mucchia: Rava Nuova`
+Ho estratto `None`
+	 da `botzer`
+Ho estratto `fosso Prassordo`
+	 da `M. Cusna: valle delle marmotte e fosso Prassordo`
+Ho estratto `Cima d' Asta`
+	 da `Coronon a Cima d'Asta`
+Ho estratto `rocca dell`
+	 da `rocca dell abisso`
+Ho estratto `Colbricon`
+	 da `Colbricon`
+Ho estratto `colle della sassa`
+	 da `colle della sassa, VIDEO`
+Ho estratto `Pizzo Uccello`
+	 da `Pizzo Uccello`
+Ho estratto `Mont`
+	 da `Col du Mont Cenis`
+Ho estratto `San Giacomo`
+	 da `Cima San Giacomo`
+Ho estratto `replaced-dns`
+	 da `Mt.Tom`
+Ho estratto `MONTE FOPPA`
+	 da `MONTE FOPPA - canale Teobaldo`
+Ho estratto `val Fontana`
+	 da `Pizzo Scalino - Cima val Fontana - Bocchetta val Fontana`
+Ho estratto `Monte Ponteranica-Monte`
+	 da `Monte Ponteranica-Monte Salmurano, da Fenile`
+Ho estratto `Nefelgiù`
+	 da `Corno Orientale di Nefelgiù`
+Ho estratto `Monte Conca`
+	 da `Monte Conca`
+Ho estratto `Arbola`
+	 da `Punta d'Arbola`
+Ho estratto `Chaberton +video`
+	 da `Chaberton +video`
+Ho estratto `Vallocci`
+	 da `Vallocci, cima dei Lupi`
+Ho estratto `Rayette`
+	 da `Becca della Rayette`
+Ho estratto `Foppolo-Monte`
+	 da `Foppolo-Monte Toro-Valcervia-Monte Tonale-Valcervia-Corno Stella-Foppolo`
+Ho estratto `CIMA ROMA`
+	 da `CIMA ROMA dalla Val Gelada`
+Ho estratto `Corno Grande`
+	 da `Anello del Corno Grande`
+Ho estratto `Monte Porrara`
+	 da `Monte Porrara - Vallone bianco`
+Ho estratto `Franchetti`
+	 da `Franchetti - vallone dei ginepri`
+Ho estratto `Lastoi`
+	 da `Ponta Lastoi de Formin`
+Ho estratto `Antelao`
+	 da `Forcella del ghiacciaio superiore dell'Antelao`
+Ho estratto `forcella rossa`
+	 da `forcella rossa di formin giro orario`
+Ho estratto `Lanzoletta kempel`
+	 da `Lanzoletta kempel`
+Ho estratto `forcella`
+	 da `forcella del fumante`
+Ho estratto `C`
+	 da `C. Carega`
+Ho estratto `Bureloni`
+	 da `Cima dei Bureloni`
+Ho estratto `Monte Rapina`
+	 da `Monte Rapina`
+Ho estratto `Setsas`
+	 da `Setsas`
+Ho estratto `ovest Murelle`
+	 da `Parete ovest Murelle e cavone`
+Ho estratto `Pizzo Intermesoli`
+	 da `Pizzo Intermesoli`
+Ho estratto `Monte Cusna`
+	 da `Monte Cusna 2120 m.`
+Ho estratto `forc`
+	 da `forc. de le laste`
+Ho estratto `traversata dal replaced-dns`
+	 da `traversata dal rif.valasco al piano della casa del re`
+Ho estratto `Vant`
+	 da `Col del Vant`
+Ho estratto `forcella Adi`
+	 da `forcella Adi - Gr. Croda da Lago`
+Ho estratto `Malga`
+	 da `Malga Caldenave`
+Ho estratto `Bondone`
+	 da `Corno del Bondone`
+Ho estratto `Cima dei Lupi`
+	 da `Cima dei Lupi`
+Ho estratto `Monte Ponteranica+Monte`
+	 da `Monte Ponteranica+Monte Salmurano`
+Ho estratto `Guglielmo`
+	 da `Guglielmo`
+Ho estratto `Arete-Valegino-Cadelle-Lemma`
+	 da `Arete-Valegino-Cadelle-Lemma`
+Ho estratto `Nord Ovest`
+	 da `Pizzo Camino - Canale Nord Ovest`
+Ho estratto `Periplo`
+	 da `Periplo della Corna Piana`
+Ho estratto `Bec`
+	 da `Bec Costazza - Deposito sci`
+Ho estratto `Monte Adamello`
+	 da `Monte Adamello e discesa dal Pisgana`
+Ho estratto `Cima Vallocci`
+	 da `Cima Vallocci, discesa canale sud-est`
+Ho estratto `Tour Monoccola-Listino-Laione`
+	 da `Tour Monoccola-Listino-Laione`
+Ho estratto `monte Venezia`
+	 da `monte Venezia - pisgana - pisganino`
+Ho estratto `Pizzo Ceric`
+	 da `Pizzo Ceric canale est + smarrito artva a vedello`
+Ho estratto `pizzo farno`
+	 da `pizzo farno da roncobello`
+Ho estratto `Carè`
+	 da `Canale est Carè Alto`
+Ho estratto `Cima del Lausetto`
+	 da `Cima del Lausetto`
+Ho estratto `Barna`
+	 da `Monte Bardan e Cima di Barna, da Isola`
+Ho estratto `Tour Valgerola`
+	 da `Tour Valgerola - Cima Piazzotti - Lago Rotondo - Pizzo dei Tre Signori`
+Ho estratto `Pizzo Bandiera`
+	 da `Pizzo Bandiera`
+Ho estratto `Cima dei lupi`
+	 da `Cima dei lupi`
+Ho estratto `Guglielmo`
+	 da `Guglielmo canali nord`
+Ho estratto `lago gelt`
+	 da `Cima del lago gelt`
+Ho estratto `Piz`
+	 da `Piz Sacs e Lunghin`
+Ho estratto `Tour Triomen-Cima`
+	 da `Tour Triomen-Cima Piazzotti`
+Ho estratto `Finnlandsfjellet`
+	 da `Finnlandsfjellet`
+Ho estratto `Skalhammarep`
+	 da `Skalhammarep`
+Ho estratto `Monte Pescofalcone`
+	 da `Monte Pescofalcone, anello rava del Ferro rava del Pisciarello`
+Ho estratto `C`
+	 da `C. LEVANTE, VAIO GIARE LARGHE,Gruppo del Carega`
+Ho estratto `Majella`
+	 da `Fondo di Majella`
+Ho estratto `Traversata Cima`
+	 da `Traversata Cima d'Asta`
+Ho estratto `Sella Ursic`
+	 da `Sella Ursic - Sella Bila Pec`
+Ho estratto `Cima Valbona`
+	 da `Cima Valbona e Campomolon`
+Ho estratto `Vajo`
+	 da `Vajo colri e vajo bianco`
+Ho estratto `Val`
+	 da `Le due Val Gelada`
+Ho estratto `Ravino`
+	 da `Ravino dalla Valcalda e Vallestrina valllone NE`
+Ho estratto `Cima Valbona`
+	 da `Cima Valbona - Val Breguzzo`
+Ho estratto `Maiella`
+	 da `Fondo della Maiella`
+Ho estratto `Collecchio`
+	 da `Collecchio - Gleck 2957m`
+Ho estratto `Gusela`
+	 da `Forcella de la Gusela`
+Ho estratto `Colbricon mt`
+	 da `Colbricon mt. 2602`
+Ho estratto `Bellagamba`
+	 da `Libro aperto da Bellagamba e discesa versante nord`
+Ho estratto `Passo del Cristallo`
+	 da `Passo del Cristallo`
+Ho estratto `Rondinaio`
+	 da `Rondinaio`
+Ho estratto `Slavazzi`
+	 da `Dos de la Torta e canalone dei Slavazzi ovest`
+Ho estratto `monte malinvern`
+	 da `monte malinvern`
+Ho estratto `Sas`
+	 da `Sas dei Ciamorces`
+Ho estratto `Colbricon`
+	 da `Piccolo Colbricon`
+Ho estratto `Forc`
+	 da `Forc. de le Laste 2297`
+Ho estratto `canalini`
+	 da `Maniva con i suoi canalini`
+Ho estratto `Storhaugen`
+	 da `Storhaugen`
+Ho estratto `des Hommes`
+	 da `Tete des Hommes`
+Ho estratto `Piz`
+	 da `Piz Buin Grond 3312m`
+Ho estratto `Montanaia`
+	 da `forc. Montanaia, forc. Monfalconi`
+Ho estratto `Teufelskamp`
+	 da `Teufelskamp 3511`
+Ho estratto `Cima Roma`
+	 da `Cima Roma da Val Gelada`
+Ho estratto `Gioveretto-Zufritt`
+	 da `Gioveretto-Zufritt 3439m`
+Ho estratto `Cima Careser`
+	 da `Cima Careser`
+Ho estratto `F.LLA`
+	 da `F.LLA CIADENES E F.LLA ADI`
+Ho estratto `hochjoch`
+	 da `Glaitner hochjoch -Monte Fumaiolo`
+Ho estratto `Traversata del Palombaro`
+	 da `Traversata del Palombaro`
+Ho estratto `Tavola rotonda`
+	 da `Tavola rotonda`
+Ho estratto `Monte Faraut`
+	 da `Monte Faraut / Buc Faraut`
+Ho estratto `Arete`
+	 da `Arete, Vallegino, Cadelle, bocchetta dei lupi, Lemma`
+Ho estratto `Pezzeda`
+	 da `Serata in Pezzeda`
+Ho estratto `Bedoleta`
+	 da `Cima de la Bedoleta`
+Ho estratto `Mont`
+	 da `Mont Gele'`
+Ho estratto `GUGLIELMO`
+	 da `GUGLIELMO versante nord`
+Ho estratto `SERTZ`
+	 da `GRAN SERTZ`
+Ho estratto `Trecarè`
+	 da `Trecarè Anticima 2849`
+Ho estratto `None`
+	 da `Bezbog 2649 m e Polezhan 2850 m`
+Ho estratto `racines`
+	 da `croce di racines`
+Ho estratto `Campo`
+	 da `Il Monte Velino da Campo Felice per il Costone Orientale e la Valle dei Briganti`
+Ho estratto `Monte`
+	 da `Monte Obante`
+Ho estratto `Cima Vagliana`
+	 da `Cima Vagliana`
+Ho estratto `Colbricon`
+	 da `Piccolo Colbricon`
+Ho estratto `VEDETTA ALTA`
+	 da `VEDETTA ALTA m. 2627`
+Ho estratto `Cusna`
+	 da `m Cusna 2121 m`
+Ho estratto `replaced-dns`
+	 da `Mt.Humphreys`
+Ho estratto `Piz`
+	 da `Quasi.. Piz Buin`
+Ho estratto `Piz`
+	 da `Piz Uccello - Piz Cavriola + Anticima Ovest`
+Ho estratto `CIMA ROMA`
+	 da `CIMA ROMA ( BRENTA ) DALLA VAL GELADA`
+Ho estratto `Cima Benfit`
+	 da `Cima Benfit`
+Ho estratto `Foppolo-Passo`
+	 da `Foppolo-Passo Dordona-Cima Vallocci-Monte Toro-Passo di Valcervia-Foppolo`
+Ho estratto `Piz`
+	 da `Piz Platta`
+Ho estratto `PIZ`
+	 da `PIZ ZUORT`
+Ho estratto `Pizzo Farno`
+	 da `Pizzo Farno, dalla Valsanguigno`
+Ho estratto `Rornestinden`
+	 da `Rornestinden`
+Ho estratto `Arsy`
+	 da `Mont d'Arsy`
+Ho estratto `None`
+	 da `Vihren 2914 m`
+Ho estratto `La Banca`
+	 da `cima La Banca`
+Ho estratto `Cima Valbona`
+	 da `Cima Valbona`
+Ho estratto `Libro Aperto`
+	 da `Libro Aperto`
+Ho estratto `forcella sasse`
+	 da `forcella sasse`
+Ho estratto `sirente`
+	 da `M sirente`
+Ho estratto `bricon`
+	 da `piccolo col bricon`
+Ho estratto `Monte Vigna`
+	 da `Monte Vigna Soliva, da Lizzola`
+Ho estratto `dintorni`
+	 da `MANIVA-e dintorni`
+Ho estratto `Pizzo Farno`
+	 da `Pizzo Farno, da Valcanale, per il Passo Laghi Gemelli`
+Ho estratto `LUPI-VALLOCCI-CAMOSCERA-TORO`
+	 da `LUPI-VALLOCCI-CAMOSCERA-TORO`
+Ho estratto `Ouilletta`
+	 da `Ouilletta`
+Ho estratto `Sasse`
+	 da `Forcella Vant delle Sasse`
+Ho estratto `Omo`
+	 da `Cima dell'Omo e Monte Giovo`
+Ho estratto `fondo maiella-macellaro-taranta`
+	 da `Traversata fondo maiella-macellaro-taranta valley`
+Ho estratto `Forcella Adi`
+	 da `Forcella Adi - Crida da Lago`
+Ho estratto `Castello`
+	 da `Re di Castello`
+Ho estratto `Rifugio Franchetti`
+	 da `Rifugio Franchetti`
+Ho estratto `Le Forzelète`
+	 da `Le Forzelète da ovest e coston de la Gardesana`
+Ho estratto `Siera`
+	 da `Forca Alta della Siera`
+Ho estratto `Capannelle`
+	 da `Monte Renoso mt. 2352 da Capannelle (Corsica)`
+Ho estratto `Mountain`
+	 da `Basin Mountain`
+Ho estratto `Monte Lago`
+	 da `Monte Lago (dalla val Budria)`
+Ho estratto `Corna Piana`
+	 da `Corna Piana`
+Ho estratto `None`
+	 da `Todorka 2746 m`
+Ho estratto `Traversata Cima`
+	 da `Traversata Cima d'Asta`
+Ho estratto `Monte Conca`
+	 da `Monte Conca`
+Ho estratto `canale Bissolati`
+	 da `Corno Grande Occidentale Diretissima e canale Bissolati`
+Ho estratto `van dele`
+	 da `van dele forzele`
+Ho estratto `Corsica`
+	 da `Monte Rotondo mt. 2622 (Corsica)`
+Ho estratto `Passo`
+	 da `Passo dei Salati`
+Ho estratto `BAGOZZA`
+	 da `CIMON DELLA BAGOZZA`
+Ho estratto `PIZ`
+	 da `PIZ PARADISIN`
+Ho estratto `Sasna`
+	 da `Pizzo Tre Confini + Sasna - Fotoreport`
+Ho estratto `corno bedole-pisganino`
+	 da `corno bedole-pisganino`
+Ho estratto `Guglielmo`
+	 da `Guglielmo come piace a noi!`
+Ho estratto `Monte Corzene`
+	 da `Monte Corzene`
+Ho estratto `Lemmax2`
+	 da `Cima dei Lupi e di Lemmax2`
+Ho estratto `Lizzola`
+	 da `Pizzo di Petto, da Lizzola`
+Ho estratto `passo Porcile`
+	 da `passo di Tartano, passo Porcile, Monte Cadelle, passo Dordona, bocchettadei Lupi e Cima di Lemma`
+Ho estratto `Colle`
+	 da `Colle delle Pale Rosse`
+Ho estratto `Pizzo`
+	 da `Pizzo Tre Confini, +Sasna +video`
+Ho estratto `Damon`
+	 da `Bocon Damon SA1 2017`
+Ho estratto `Lyngen`
+	 da `7 giorni nelle alpi di Lyngen - Norvegia`
+Ho estratto `M`
+	 da `Tour COMPLETO del M. Ferrante`
+Ho estratto `Corna Piana`
+	 da `Giro di Corna Piana`
+Ho estratto `Valrossa`
+	 da `Punta di Valrossa`
+Ho estratto `piazzocco`
+	 da `Bocchetta del piazzocco`
+Ho estratto `Scima`
+	 da `Scima De Durduna`
+Ho estratto `None`
+	 da `ferrante e ferrantino`
+Ho estratto `Frà`
+	 da `Testa dei Frà`
+Ho estratto `None`
+	 da `Malyoviza 2729 m`
+Ho estratto `Carega`
+	 da `Carega - vallon dei cavai`
+Ho estratto `Lavinores`
+	 da `Lavinores`
+Ho estratto `cima d' Asta`
+	 da `cima d'Asta`
+Ho estratto `Monte Ciaslaras`
+	 da `Val Maira - Monte Ciaslaras 3002m`
+Ho estratto `Cevedale`
+	 da `Cevedale`
+Ho estratto `canale Majori`
+	 da `m. Sirente per canale Majori`
+Ho estratto `Lavinarossa`
+	 da `Lavinarossa - Rotlahner`
+Ho estratto `Sasso`
+	 da `Cusna da sud e Sasso del Morto`
+Ho estratto `Kassianspitze`
+	 da `Kassianspitze`
+Ho estratto `Cima Madriccio`
+	 da `Cima Madriccio`
+Ho estratto `Forcella Montanaia`
+	 da `Forcella Montanaia`
+Ho estratto `Forcella Lavinal`
+	 da `Forcella Lavinal dell'orso`
+Ho estratto `Cima Solda`
+	 da `Cima Solda`
+Ho estratto `Sella Carnizza`
+	 da `Sella Carnizza`
+Ho estratto `Creper`
+	 da `Creper Vac 2849 m`
+Ho estratto `Schongrubspitze`
+	 da `Schongrubspitze/Belmonte`
+Ho estratto `Palombaro-forcone-`
+	 da `Palombaro-forcone-,martellese`
+Ho estratto `monte gorzano`
+	 da `monte gorzano`
+Ho estratto `Cop`
+	 da `Cop di Breguzzo`
+Ho estratto `Colbricon`
+	 da `Colbricon`
+Ho estratto `val Cannella`
+	 da `M.Amaro e traversata della val Cannella`
+Ho estratto `Collecchio`
+	 da `Collecchio - Gleck 2958m`
+Ho estratto `Campioncino`
+	 da `Campioncino`
+Ho estratto `angeli`
+	 da `Prà degli angeli`
+Ho estratto `Auta`
+	 da `Auta - Monte Alto`
+Ho estratto `Sass`
+	 da `Sass de Roi 2372m - I Siadoi 2287m`
+Ho estratto `Forcella Marmolada`
+	 da `Forcella Marmolada + Pas de Ombretta`
+Ho estratto `Lago`
+	 da `Cima del Lago e Samerberg (Maddalene)`
+Ho estratto `Cima Mandriccio`
+	 da `Cima Mandriccio`
+Ho estratto `Monte Amaro`
+	 da `Monte Amaro`
+Ho estratto `Pizzo Alto`
+	 da `Pizzo Alto da Sud`
+Ho estratto `Croda`
+	 da `Croda Rossa dalla Defereggental - discesa diretta a Nord`
+Ho estratto `Maurerspitze`
+	 da `Maurerspitze`
+Ho estratto `Canalone`
+	 da `Canalone dei Tra Gendarmi`
+Ho estratto `Lozzi`
+	 da `Monte Cinto mt. 2706 da Lozzi (Corsica)`
+Ho estratto `Bédole`
+	 da `Corno di Bédole, dal Tonale con discesa del Pisganino`
+Ho estratto `Timogno`
+	 da `Timogno e discesa (parziale) verso valzurio`
+Ho estratto `ADAMELLO`
+	 da `ADAMELLO (discesa dal Pisgana)`
+Ho estratto `SHOLLENHORN`
+	 da `SHOLLENHORN`
+Ho estratto `Loson`
+	 da `Punta Loson`
+Ho estratto `Albani`
+	 da `Ferrantino dal rif. Albani`
+Ho estratto `Maniva`
+	 da `Maniva`
+Ho estratto `Lago`
+	 da `Cima del Lago Gelt`
+Ho estratto `nord Pradella`
+	 da `Canale nord Pradella & Madonnino`
+Ho estratto `ALPLIHORN m.3005`
+	 da `ALPLIHORN m.3005`
+Ho estratto `Monte Farno`
+	 da `Monte Farno (da Roncobello)`
+Ho estratto `PIZ`
+	 da `PIZ MUCIA`
+Ho estratto `dintorniiiiiiii`
+	 da `MANIVA-e dintorniiiiiiii`
+Ho estratto `Frerone`
+	 da `Frerone - discesa versante est`
+Ho estratto `Arbola`
+	 da `Punta d'Arbola`
+Ho estratto `Pizzo Farno`
+	 da `Pizzo Farno, da Valcanale, per il Passo Laghi Gemelli`
+Ho estratto `Cima di Lemma`
+	 da `Cima di Lemma`
+Ho estratto `monte Ponteranica+Salmurano`
+	 da `monte Ponteranica+Salmurano`
+Ho estratto `Vinterhorn`
+	 da `Vinterhorn`
+Ho estratto `MONTE TELENEK`
+	 da `MONTE TELENEK vallone delle rose`
+Ho estratto `Monte Gardena`
+	 da `Monte Gardena e monte Campioncino`
+Ho estratto `Monte Motta`
+	 da `Motta di Scais / Monte Motta, dalla Val Vedello`
+Ho estratto `Scalino`
+	 da `Scalino`
+Ho estratto `Allalinhorn`
+	 da `Allalinhorn`
+Ho estratto `VALCANALE`
+	 da `VALCANALE TOUR`
+Ho estratto `vigna vaga`
+	 da `P petto vigna vaga spigorel`
+Ho estratto `Cima di valpianella`
+	 da `Cima di valpianella`
+Ho estratto `Pizzo Campaggio`
+	 da `Pizzo Campaggio`
+Ho estratto `Pizzo Farno`
+	 da `Pizzo Farno`
+Ho estratto `Pointe`
+	 da `Pointe Leysser`
+Ho estratto `None`
+	 da `Musala 2925 m`
+Ho estratto `Anello della valle`
+	 da `Anello della valle Fischia`
+Ho estratto `Terminillo`
+	 da `Terminillo, anello della Vallonina da Rif. Mosè`
+Ho estratto `Val`
+	 da `Val Maira - Auto Vallonasso 2883m`
+Ho estratto `Monte D'`
+	 da `Monte D'Ugni`
+Ho estratto `Vegaia`
+	 da `Vegaia`
+Ho estratto `Nardis`
+	 da `Presanella dalla val di Nardis`
+Ho estratto `Cima di mezzo`
+	 da `Cima di mezzo`
+Ho estratto `Gaishorndl`
+	 da `Gaishorndl`
+Ho estratto `forca dei disteis`
+	 da `forca dei disteis (q. 2201)`
+Ho estratto `teufentaler spitze`
+	 da `teufentaler spitze`
+Ho estratto `Filadonna`
+	 da `Becco di Filadonna (Vigolana)`
+Ho estratto `M`
+	 da `M. Cusna: diretta sud + diretta contrafforte ovest`
+Ho estratto `Traversata Valle`
+	 da `Traversata Valle Del Chiarino`
+Ho estratto `Cima Mattonara`
+	 da `Cima Mattonara - Kachelstube 2660m`
+Ho estratto `C`
+	 da `C. C. Palon da Gizzera, R. Lancia`
+Ho estratto `Costa`
+	 da `Costa Cerasole di qua e di la`
+Ho estratto `Guslon`
+	 da `Guslon`
+Ho estratto `Colbricon`
+	 da `Colbricon`
+Ho estratto `Venal`
+	 da `Venal,Capelli Grande,Crep Nudo e Capel  Piccolo`
+Ho estratto `Gronlait`
+	 da `Gronlait & Hoabonti`
+Ho estratto `Valon`
+	 da `Forcella del Valon Tofana 2936 m`
+Ho estratto `oste ecc`
+	 da `Cima carega per vaio dell'oste ecc.`
+Ho estratto `None`
+	 da `Cadria 2254 m`
+Ho estratto `colori`
+	 da `vajo colori - carega - giare bianche`
+Ho estratto `angeli`
+	 da `Pra degli angeli e dintorni`
+Ho estratto `Cima d' Asta`
+	 da `Cima d'Asta`
+Ho estratto `Mamma Rosa`
+	 da `Blokhaus da Mamma Rosa`
+Ho estratto `forcella Valdurna`
+	 da `Quota 2250 m croce forcella Valdurna`
+Ho estratto `Timogno`
+	 da `Timogno, da Spiazzi di Boario`
+Ho estratto `Metz`
+	 da `Pointe de Metz`
+Ho estratto `monte Stivo`
+	 da `monte Stivo`
+Ho estratto `Monte Argatone`
+	 da `Anticima Nord del Monte Argatone e versante ovest, da Villalago.`
+Ho estratto `punta trieste`
+	 da `punta trieste`
+Ho estratto `Monte Franco`
+	 da `Monte Franco`
+Ho estratto `Pescofalcone`
+	 da `Rapina, anticima Pescofalcone e Rava Cupa`
+Ho estratto `Pezzeda`
+	 da `Notturna in Pezzeda`
+Ho estratto `Cima di Lemma`
+	 da `Cima di Lemma`
+Ho estratto `Birch`
+	 da `Birch Mountain`
+Ho estratto `Laione`
+	 da `Laione`
+Ho estratto `Timogno`
+	 da `Timogno`
+Ho estratto `Lizzola`
+	 da `Monte Sasna+discesa verso Nona, da Lizzola`
+Ho estratto `Rosetta`
+	 da `Rallyno della Rosetta`
+Ho estratto `Monte Gorzano`
+	 da `Monte Gorzano`
+Ho estratto `Creper vac`
+	 da `Creper vac / Cimò  2816 m`
+Ho estratto `Penes`
+	 da `Penes de Formin - Ponta de Giau`
+Ho estratto `Monte di Mezzo`
+	 da `Monte di Mezzo`
+Ho estratto `Gronlàit`
+	 da `Gronlàit m. 2383`
+Ho estratto `Forca rossa`
+	 da `Forca rossa`
+Ho estratto `Venezia`
+	 da `Punta Venezia, Pisgana`
+Ho estratto `Cima Venezia`
+	 da `Pisgana Cima Venezia`
+Ho estratto `Shollenhorn`
+	 da `Shollenhorn`
+Ho estratto `Monte Seleron`
+	 da `Cima della Sciura & Monte Seleron`
+Ho estratto `cima`
+	 da `salmurano (cima e rifugio)`
+Ho estratto `Cima Laione`
+	 da `GAVER- Cima Laione`
+Ho estratto `Monte Campioncino`
+	 da `Monte Campioncino`
+Ho estratto `torcole`
+	 da `torcole`
+Ho estratto `Timogno`
+	 da `Timogno, da Spiazzi di Boario + video`
+Ho estratto `Anello C`
+	 da `Anello C. Trenta, C del Lago, Tuatti e Quaira`
+Ho estratto `Rondinaio`
+	 da `Rondinaio + Giovo`
+Ho estratto `Nord`
+	 da `Stivo da Nord`
+Ho estratto `None`
+	 da `pennes powder`
+Ho estratto `Angeli`
+	 da `Pra dei Angeli`
+Ho estratto `Potenze Campolino`
+	 da `Alpe tre Potenze Campolino`
+Ho estratto `Monte Campioncino`
+	 da `Monte Campioncino`
+Ho estratto `Ulsen`
+	 da `Punta di Ulsen (Rotenspitze)`
+Ho estratto `Monte Lasca`
+	 da `Monte Lasca Plagna`
+Ho estratto `spietze`
+	 da `gedrum spietze`
+Ho estratto `Lavinores`
+	 da `Lavinores`
+Ho estratto `None`
+	 da `portule, kempen`
+Ho estratto `Zwiesel`
+	 da `Zwiesel 2167 +`
+Ho estratto `Lone`
+	 da `Lone Pine Peak`
+Ho estratto `Nord Est`
+	 da `Etna Cratere Nord Est`
+Ho estratto `Passo Antermarucol`
+	 da `Passo Antermarucol - Col Alto`
+Ho estratto `M.te`
+	 da `M.te Grappa`
+Ho estratto `Arcia`
+	 da `Forcella di val d'Arcia.`
+Ho estratto `Val`
+	 da `Forcella di Val d'Arcia`
+Ho estratto `Cima Folga`
+	 da `Cima Folga mt 2436 (tentativa)`
+Ho estratto `Sulzspitz`
+	 da `Sulzspitz`
+Ho estratto `Cima Lavazze`
+	 da `Cima Lavazze 2415 m`
+Ho estratto `MUT`
+	 da `MUT m 2156 (Lagorai)`
+Ho estratto `Rifugio Capanna`
+	 da `Rifugio Capanna 2000`
+Ho estratto `Kirghizistan`
+	 da `5 Giorni  di pelli in Kirghizistan -`
+Ho estratto `Cimone`
+	 da `Cimone di Margno X2`
+Ho estratto `Seita`
+	 da `Seita (monte)`
+Ho estratto `Salmurano`
+	 da `Salmurano e dintorni`
+Ho estratto `Campioncino`
+	 da `Campioncino`
+Ho estratto `MONTE PINTAS`
+	 da `MONTE PINTAS 2543mt  Val di Susa`
+Ho estratto `Mont`
+	 da `Mont Tantané, da La Magdeleine`
+Ho estratto `Rifugio Aquila`
+	 da `Rifugio Aquila Colere+Monte Pora+video`
+Ho estratto `torcole`
+	 da `torcole`
+Ho estratto `Alpetli`
+	 da `Alpetli + Tanatzhohi`
+Ho estratto `Tallihorn`
+	 da `Tallihorn`
+Ho estratto `cimone di margno`
+	 da `cimone di margno`
+Ho estratto `Cima Verde`
+	 da `Cima Verde`
+Ho estratto `Colbricon`
+	 da `Piccolo Colbricon`
+Ho estratto `Passo Palù`
+	 da `Passo Palù`
+Ho estratto `Ponta`
+	 da `Ponta (1952)`
+Ho estratto `ex-piste celeste`
+	 da `Campolino per ex-piste celeste e rossa`
+Ho estratto `Zwiesel`
+	 da `Zwiesel 2167m`
+Ho estratto `Cima pissola`
+	 da `Cima pissola`
+Ho estratto `Cornor`
+	 da `Cornor`
+Ho estratto `Cenon`
+	 da `Cenon`
+Ho estratto `Breitbühel`
+	 da `Breitbühel Colle Largo 2287 m`
+Ho estratto `Boa`
+	 da `Boa di Cinque Torri`
+Ho estratto `Guglielmo`
+	 da `Guglielmo`
+Ho estratto `Pescegallo`
+	 da `Piste di Pescegallo`
+Ho estratto `Cima Coppi`
+	 da `Cima Coppi`
+Ho estratto `Hüenerchöpf`
+	 da `Hüenerchöpf`
+Ho estratto `Morrone`
+	 da `Morrone: Rava della Neve`
+Ho estratto `Vallone Rosso`
+	 da `Traversata Passo Godi-Barrea per lo Scalone e il Vallone Rosso`
+Ho estratto `M`
+	 da `M. Terminillo, dalla Valle di Sole`
+Ho estratto `Cresta Onchieli`
+	 da `Cresta Onchieli (2177)`
+Ho estratto `Boia`
+	 da `Col della  Boia ( quasi)`
+Ho estratto `Zendleser`
+	 da `Zendleser/Col de Poma 2422 m`
+Ho estratto `Cima Nassere`
+	 da `Cima Nassere 2253m e Croz di Conseria 2156m`
+Ho estratto `Schwifurgga+Chorbsch`
+	 da `Schwifurgga+Chorbsch Horn`
+Ho estratto `Pezza Nord`
+	 da `Cimata di Pezza Nord e Sud`
+Ho estratto `Monte Etna`
+	 da `Monte Etna`
+Ho estratto `Traversata Scanno-Passo`
+	 da `Traversata Scanno-Passo Godi per Monte della Corte`
+Ho estratto `Conseria`
+	 da `Conseria`
+Ho estratto `Nord Est`
+	 da `Etna -Cratere di Nord Est`
+Ho estratto `Glaitner`
+	 da `verso Glaitner Hochjoch`
+Ho estratto `maiella`
+	 da `Direttissima maiella -variante diretta`
+Ho estratto `colbricon`
+	 da `colbricon`
+Ho estratto `None`
+	 da `Stivo`
+Ho estratto `Sura`
+	 da `Munt de Sura (Salmurano) e Ponteranica`
+Ho estratto `dintorniiiiiiii`
+	 da `MANIVA-e dintorniiiiiiii`
+Ho estratto `Torcole`
+	 da `Torcole`
+Ho estratto `Glasergrat`
+	 da `Glasergrat e Luschgrat`
+Ho estratto `Serra`
+	 da `Traversata Bisegna-Scanno per Serra della Terratta`
+Ho estratto `Peller`
+	 da `Peller`
+Ho estratto `Monte Viglio`
+	 da `Il Monte Viglio da Meta`
+Ho estratto `croce`
+	 da `croce di valdurna`
+Ho estratto `Mondeval`
+	 da `Mondeval`
+Ho estratto `Valle`
+	 da `Valle del Bove e Montagnola`
+Ho estratto `Spelzi-`
+	 da `Spelzi- Moont dai Coi`
+Ho estratto `Vallone Palombaro-Ugni`
+	 da `Vallone Palombaro-Ugni`
+Ho estratto `val Sedornia`
+	 da `Cima di Val Loga e val Sedornia`
+Ho estratto `Cima Roma`
+	 da `Cima Roma dal Grostè e Vallone del Turrion`
+Ho estratto `Revolution`
+	 da `Revolution (sci e luci nella notte)`
+Ho estratto `Timogno-Benfit-B`
+	 da `Timogno-Benfit-B. Rigada-Q. 2150 p.so Omini-Benfit con discesa ovest`
+Ho estratto `Timogno`
+	 da `Timogno, da Spiazzi di Boario`
+Ho estratto `Passo Spluga`
+	 da `Passo Spluga e dintorni`
+Ho estratto `Cima Bocche`
+	 da `Cima Bocche`
+Ho estratto `Ugni`
+	 da `Monte d'Ugni per V.Palombaro (o Ugni)`
+Ho estratto `Cima Lasteati`
+	 da `Cima Lasteati 2405 m`
+Ho estratto `M`
+	 da `M. Coppolo`
+Ho estratto `Timogno`
+	 da `Timogno`
+Ho estratto `Pizzo Alto`
+	 da `Pizzo Alto`
+Ho estratto `Sulspitze`
+	 da `Sulspitze 2500 m`
+Ho estratto `ETNA`
+	 da `ETNA`
+Ho estratto `Tanatzhohi`
+	 da `Tanatzhohi`
+Ho estratto `nord`
+	 da `Etna da nord`
+Ho estratto `M.Orsello`
+	 da `M.Orsello`
+Ho estratto `CLOGSTAFEL`
+	 da `CLOGSTAFEL`
+Ho estratto `Campo`
+	 da `Corna di Campo`
+Ho estratto `Cima Venezia`
+	 da `Pisgana Cima Venezia`
+Ho estratto `CIMA LAIONE`
+	 da `CIMA LAIONE`
+Ho estratto `SIltri+Forcella`
+	 da `Cima dei SIltri+Forcella Rossa`
+Ho estratto `Piz`
+	 da `Piz Radun-Plangghorn`
+Ho estratto `None`
+	 da `Kreuzjochl 2536`
+Ho estratto `Monte Vigna`
+	 da `Monte Vigna Vaga,fontanamara ferrantino`
+Ho estratto `cop di breguzzo`
+	 da `cop di breguzzo`
+Ho estratto `Lattenhorn`
+	 da `Lattenhorn`
+Ho estratto `PIZ`
+	 da `PIZ NUNA`
+Ho estratto `Piz`
+	 da `Piz Cavrin est`
+Ho estratto `Barbarossa`
+	 da `Barbarossa, da Teveno  versante est`
+Ho estratto `Stossenstock`
+	 da `Stossenstock, per lHohbergtal - Fotoreport`
+Ho estratto `Monte Toro`
+	 da `Monte Toro`
+Ho estratto `Monte Telenek`
+	 da `Monte Telenek`
+Ho estratto `San Gian`
+	 da `Piz San Gian`
+Ho estratto `Piz`
+	 da `Piz de La Margna`
+Ho estratto `Chli`
+	 da `Chli Bielenhorn`
+Ho estratto `Stossenstock`
+	 da `Stossenstock, per lHohbergtal + video`
+Ho estratto `Corna Piana`
+	 da `Corna Piana(anticima)`
+Ho estratto `Piz`
+	 da `Piz d'Agnel, da Marmorera, per la Val Natons`
+Ho estratto `Lago`
+	 da `Cima di Lago Gelt`
+Ho estratto `BACHENSTOCK`
+	 da `BACHENSTOCK (discesa ovest lungo rossfirn,juzfad,fino a la chlialp`
+Ho estratto `passo contrabbandieri`
+	 da `passo contrabbandieri`
+Ho estratto `SASNA-TRE`
+	 da `SASNA-TRE CONFINI-SASNA-RAMBASI'`
+Ho estratto `Cima piazzotti`
+	 da `Cima piazzotti val tronella`
+Ho estratto `Corno Stella`
+	 da `Corno Stella, Monte Masoni, Zerna, Chierico e Montebello`
+Ho estratto `Laga`
+	 da `A zonzo per la Laga`
+Ho estratto `Zunderspitze`
+	 da `Zunderspitze`
+Ho estratto `Bodner`
+	 da `Monte di Piano  ( Bodner Berg mt.  2378)`
+Ho estratto `None`
+	 da `m.nambino`
+Ho estratto `Corno Grande`
+	 da `Corno Grande (vetta Occidentale)`
+Ho estratto `Latemar`
+	 da `Latemar : verso Forcella dei Campanili da Nord`
+Ho estratto `Corno Grande`
+	 da `Corno Grande`
+Ho estratto `san franco`
+	 da `san franco`
+Ho estratto `Gürtelspitze`
+	 da `Gürtelspitze / Croda della Cintola`
+Ho estratto `Serena`
+	 da `Col Serena 2547 m`
+Ho estratto `Monte Rite`
+	 da `Monte Rite`
+Ho estratto `Cima Collecchio`
+	 da `Cima Collecchio - 2957 m`
+Ho estratto `Cusna`
+	 da `Cusna Valle delle Marmotte e Prassordo`
+Ho estratto `canale nord`
+	 da `canale nord dello jalovec`
+Ho estratto `grotta`
+	 da `Cafornia grotta e Velino`
+Ho estratto `Timmelsspitze`
+	 da `Timmelsspitze (3033)`
+Ho estratto `canale est`
+	 da `Pizzo Tre Vescovi. Discesa per il canale est`
+Ho estratto `Monte Campana`
+	 da `Monte Campana - Gleckspitze 2583m`
+Ho estratto `Cima d`
+	 da `Cima d' Asta`
+Ho estratto `Hörtlahner`
+	 da `Hörtlahner P. Lavina 2660 m`
+Ho estratto `None`
+	 da `Carega per teleferica`
+Ho estratto `toront`
+	 da `col toront`
+Ho estratto `forcella Buse`
+	 da `forcella Buse Todesche`
+Ho estratto `Strugova`
+	 da `Canalone della Strugova`
+Ho estratto `M.te`
+	 da `M.te Mileto  Sud-Nord  (errata corrige)  Abruzzo`
+Ho estratto `M.te`
+	 da `M.te Mileto  Sud-Nord`
+Ho estratto `Grion`
+	 da `Cima di Grion`
+Ho estratto `CEFALONE`
+	 da `CEFALONE da Casamaina`
+Ho estratto `Ocre-Cefalone`
+	 da `Ocre-Cefalone`
+Ho estratto `M.Cefalone`
+	 da `M.Cefalone`
+Ho estratto `Cima Monticello`
+	 da `Cima Monticello, dal canalone nord`
+Ho estratto `Maniva`
+	 da `Maniva`
+Ho estratto `Pizzo Scalino`
+	 da `Pizzo Scalino`
+Ho estratto `Monte Toro`
+	 da `Monte Toro, da Foppolo`
+Ho estratto `Nefelgiù`
+	 da `Corno orientale di Nefelgiù`
+Ho estratto `BARENHORN`
+	 da `BARENHORN m. 2929`
+Ho estratto `Cima Piazzotti`
+	 da `Mut de Sura, Cima Piazzotti, canale di Val Pianella`
+Ho estratto `Mittaghorn`
+	 da `Mittaghorn`
+Ho estratto `Manio`
+	 da `Pancione di Manio'`
+Ho estratto `Pizzo`
+	 da `Pizzo Tre Confini`
+Ho estratto `Lorenzhor`
+	 da `Lorenzhor`
+Ho estratto `Piz`
+	 da `Piz da la Margna (canalone nord)`
+Ho estratto `Pessa`
+	 da `Punta della Pessa, con discesa su Armisola`
+Ho estratto `Sasna`
+	 da `Pizzo Tre Confini e Sasna`
+Ho estratto `Pizzo Redorta`
+	 da `Pizzo Redorta`
+Ho estratto `Monte Toro`
+	 da `Monte Toro, Monte Tonale e Passo di Valcervia`
+Ho estratto `Monte Toro`
+	 da `Monte Toro + Corno Stella`
+Ho estratto `Val`
+	 da `Cima di Val Loga`
+Ho estratto `LORENZHORN`
+	 da `LORENZHORN + ripellate`
+Ho estratto `pizzo delle corna`
+	 da `pizzo delle corna`
+Ho estratto `Anticima`
+	 da `Anticima Tambo + Val loga`
+Ho estratto `Monte Croce`
+	 da `Ancora Buson de Fornasa e canali Nord Monte Croce`
+Ho estratto `Antecima`
+	 da `Antecima S m. Chenaille 3000 m (col Champillon 2708 m)`
+Ho estratto `Sella Bila`
+	 da `Sella Bila Pec 2005 m`
+Ho estratto `Carega`
+	 da `Carega - a zonzo`
+Ho estratto `Botzer`
+	 da `Botzer/Capro`
+Ho estratto `forca del palone`
+	 da `forca del palone`
+Ho estratto `Hohe`
+	 da `Hohe Kreuzspitze P.ta Altacroce 2743 m`
+Ho estratto `Cimone`
+	 da `Cimone via Fosso Piaggione integrale`
+Ho estratto `Passo Cagnon`
+	 da `Passo Cagnon di Sopra`
+Ho estratto `Kotovo`
+	 da `Kotovo sedlo`
+Ho estratto `Ausseres`
+	 da `Ausseres Hocheck - Monte Alto 2867m`
+Ho estratto `Valbenairspitz`
+	 da `Valbenairspitz`
+Ho estratto `giumenta bianca`
+	 da `rava della giumenta bianca`
+Ho estratto `Mte`
+	 da `Canale di Cupa Grande al Mte Girella (Teramo)`
+Ho estratto `Monte Ferrante`
+	 da `periplo Monte Ferrante e Val Scura`
+Ho estratto `Bondone`
+	 da `Cima di  Bondone`
+Ho estratto `Monte Toro`
+	 da `Monte Toro, passo di Valbona, cima di Valbona, Monte Toro`
+Ho estratto `Val`
+	 da `Monte Toro+discesa in Val Cervia+Corno Stella`
+Ho estratto `M`
+	 da `M. Terminillo, anello della Vallonina`
+Ho estratto `Magerstein`
+	 da `Monte Magro - Magerstein`
+Ho estratto `M`
+	 da `M Girella 1814m`
+Ho estratto `forcelle Racines`
+	 da `Giro per forcelle Racines`
+Ho estratto `M`
+	 da `M. Messer`
+Ho estratto `Citrin`
+	 da `Col Citrin`
+Ho estratto `Lizzola`
+	 da `Pizzo delle Corna, da Lizzola`
+Ho estratto `Monte Toro`
+	 da `Monte Toro e Corno Stella`
+Ho estratto `Pizzo Mellasc`
+	 da `Pizzo Mellasc`
+Ho estratto `Cima Siltri-Pizzo`
+	 da `Cima Siltri-Pizzo Rotondo`
+Ho estratto `Est`
+	 da `Petroso x dorsale Est`
+Ho estratto `m.cefalone`
+	 da `m.cefalone`
+Ho estratto `Gronlait`
+	 da `Gronlait`
+Ho estratto `Pizzo Mellasc`
+	 da `Pizzo Mellasc`
+Ho estratto `Cianpolongo`
+	 da `Rocheta de Cianpolongo 2374 m`
+Ho estratto `Memorial Guerino`
+	 da `Memorial Guerino (sci e luci nella notte`
+Ho estratto `Timogno`
+	 da `Timogno, da Spiazzi di Boario + video`
+Ho estratto `Cabianca`
+	 da `Cabianca - Valrossa - Vallone dei Frati`
+Ho estratto `Foppone`
+	 da `Foppone`
+Ho estratto `raduno Scialpinistico`
+	 da `22° raduno Scialpinistico di Corteno Golgi(BS)`
+Ho estratto `traversata S-N`
+	 da `Forcella della Neve - traversata S-N`
+Ho estratto `San Franco`
+	 da `Il Monte San Franco per la Cresta Ovest, la Valle del Paradiso e il Versante Nord-ovest.`
+Ho estratto `Cima Tremenesca`
+	 da `Cima Tremenesca canale Nord-Ovest`
+Ho estratto `Nudo`
+	 da `Col Nudo`
+Ho estratto `Cima Mosca`
+	 da `Cima Mosca - x boale mosca e discesa per Vajo Caure`
+Ho estratto `Rodes`
+	 da `Pizzo di Rodes`
+Ho estratto `traversata Chapelliberg`
+	 da `BLUEMBERG, traversata Chapelliberg - Muotathal e ritorno ( Video )`
+Ho estratto `cima soliva`
+	 da `cima soliva da vedello`
+Ho estratto `Lorenzhorn`
+	 da `Lorenzhorn`
+Ho estratto `Tallinhorn`
+	 da `Tallinhorn + barenhorn`
+Ho estratto `Spitzhorli`
+	 da `Spitzhorli, da Simplonpass, con possibile concatenamento al Tochuhorn`
+Ho estratto `Monte Lago`
+	 da `Monte Lago (Canale nord)`
+Ho estratto `Piz`
+	 da `Piz Surgonda, Campagnung+ video`
+Ho estratto `Cima Rosetta`
+	 da `Cima Rosetta`
+Ho estratto `Montagnola`
+	 da `Montagnola`
+Ho estratto `cima`
+	 da `cima 2376 alla hochspitz`
+Ho estratto `Monte Cusna`
+	 da `Monte Cusna 2120 m.`
+Ho estratto `Henne`
+	 da `Monte Corno (Henne)`
+Ho estratto `Entrelor`
+	 da `Testa di Entrelor`
