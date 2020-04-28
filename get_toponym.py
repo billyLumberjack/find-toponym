@@ -31,9 +31,9 @@ def get_title_part_matching_target_sequence(title_tags_list, pos_target_sequence
 
 #######################################################################        
 
-report_title_list = [' '.join(sys.argv[1:])]
+report_title_list = ' '.join(sys.argv[1:]).split(',')
 
-with open('sorted_target_pos_sequences.txt') as sorted_target_pos_sequences_file:
+with open('./sorted_target_pos_sequences.txt') as sorted_target_pos_sequences_file:
     sorted_pos_sequences = [pos_sequence.split(',') for pos_sequence in sorted_target_pos_sequences_file.read().splitlines()]
 
 tagger = treetaggerwrapper.TreeTagger(TAGLANG="it", TAGDIR="./treetagger")
@@ -46,7 +46,7 @@ refined_titles = [
     get_title_part_matching_target_sequence(tagged_title, sorted_pos_sequences) for tagged_title in tagged_titles
     ]
 
-refined_titles = ['None' if refined_titles is None else refined_titles for refined_titles in refined_titles]
+refined_titles = ['' if refined_titles is None else refined_titles for refined_titles in refined_titles]
 
 for i in range(len(refined_titles)):
-    print("Ho estratto `" + refined_titles[i] +"`\n\t da `"+ report_title_list[i] +"`")
+    print(refined_titles[i])
