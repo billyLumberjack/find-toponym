@@ -2,9 +2,9 @@
 
 # Set these paths appropriately
 
-BIN="./treetagger/bin"
-CMD="./treetagger/cmd"
-LIB="./treetagger/lib"
+BIN="/root/find-toponym/treetagger/bin"
+CMD="/root/find-toponym/treetagger/cmd"
+LIB="/root/find-toponym/treetagger/lib"
 
 GERMANTAGGER=${CMD}/tree-tagger-german
 TAGGER=${BIN}/tree-tagger

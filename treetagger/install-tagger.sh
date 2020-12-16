@@ -6,15 +6,15 @@ mkdir bin
 mkdir doc
 echo ''
 
-if [ -r tree-tagger-linux-3.2.2.tar.gz ]
+if [ -r tree-tagger-linux-3.2.3.tar.gz ]
 then
-    tar -zxf tree-tagger-linux-3.2.2.tar.gz
+    tar -zxf tree-tagger-linux-3.2.3.tar.gz
     echo 'TreeTagger version for PC-Linux installed.'
 fi
 
-if [ -r tree-tagger-MacOSX-3.2.2.tar.gz ]
+if [ -r tree-tagger-MacOSX-3.2.3.tar.gz ]
 then
-    tar -zxf tree-tagger-MacOSX-3.2.2.tar.gz
+    tar -zxf tree-tagger-MacOSX-3.2.3.tar.gz
     echo 'TreeTagger version for Mac OS-X installed.'
 fi
 
@@ -121,6 +121,12 @@ then
     echo 'French parameter file installed.'
 fi
 
+if [ -r french-spoken.par.gz ]
+then
+    gzip -cd french-spoken.par.gz > lib/french-spoken.par
+    echo 'Spoken French parameter file installed.'
+fi
+
 if [ -r old-french.par.gz ]
 then
     gzip -cd old-french.par.gz > lib/old-french.par
@@ -217,6 +223,12 @@ then
     echo 'Galician parameter file installed.'
 fi
 
+if [ -r hungarian.par.gz ]
+then
+    gzip -cd hungarian.par.gz > lib/hungarian.par
+    echo 'Hungarian parameter file installed.'
+fi
+
 if [ -r danish.par.gz ]
 then
     gzip -cd danish.par.gz > lib/danish.par
@@ -298,15 +310,15 @@ fi
 
 # installation of uncompressed files
 
-if [ -r tree-tagger-linux-3.2.2.tar ]
+if [ -r tree-tagger-linux-3.2.3.tar ]
 then
-    tar -xf tree-tagger-linux-3.2.2.tar
+    tar -xf tree-tagger-linux-3.2.3.tar
     echo 'TreeTagger version for PC-Linux installed.'
 fi
 
-if [ -r tree-tagger-MacOSX-3.2.2.tar ]
+if [ -r tree-tagger-MacOSX-3.2.3.tar ]
 then
-    tar -xf tree-tagger-MacOSX-3.2.2.tar
+    tar -xf tree-tagger-MacOSX-3.2.3.tar
     echo 'TreeTagger version for Mac OS-X installed.'
 fi
 
@@ -413,6 +425,12 @@ then
     echo 'French parameter file installed.'
 fi
 
+if [ -r french-spoken.par ]
+then
+    mv french-spoken.par lib/french-spoken.par
+    echo 'Spoken French parameter file installed.'
+fi
+
 if [ -r old-french.par ]
 then
     mv old-french.par lib/old-french.par
@@ -507,6 +525,12 @@ if [ -r galician.par ]
 then
     mv galician.par lib/galician.par
     echo 'Galician parameter file installed.'
+fi
+
+if [ -r hungarian.par ]
+then
+    mv hungarian.par lib/hungarian.par
+    echo 'Hungarian parameter file installed.'
 fi
 
 if [ -r danish.par ]

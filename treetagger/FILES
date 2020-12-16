@@ -1,7 +1,9 @@
 
 This package contains the TreeTagger, a probabilistic part-of-speech
-tagger developed by Helmut Schmid. All rights are reserved by Helmut
-Schmid.
+tagger developed by Helmut Schmid. All rights are reserved by the 
+Institute for Computational Linguistics at the University of Stuttgart.
+The programs have been compiled for PCs with the Linux operating system.
+Many thanks to Arne Fitschen for doing this!
 
 Files contained in this package:
 
@@ -16,7 +18,7 @@ Files contained in this package:
 - doc/sigdat95.ps       paper describing the TreeTagger
 
 This package can be downloaded at 
-http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger
+http://www.ims.uni-stuttgart.de/Tools/DecisionTreeTagger.html
 
 Also available at this URL:
 - parameter files

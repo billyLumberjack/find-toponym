@@ -1,3 +1,4 @@
+from __future__ import unicode_literals
 import treetaggerwrapper 
 
 #######################################################################
@@ -38,9 +39,12 @@ with open('sorted_target_pos_sequences.txt') as sorted_target_pos_sequences_file
 
 tagger = treetaggerwrapper.TreeTagger(TAGLANG="it", TAGDIR="./treetagger")
 
+[print type(manna.encode()) for manna in report_title_list ]
+
 tagged_titles = [
-    treetaggerwrapper.make_tags(tagger.tag_text(report_title)) for report_title in report_title_list
+    treetaggerwrapper.make_tags(tagger.tag_text(report_title.encode())) for report_title in report_title_list
     ]    
+
 
 refined_titles = [
     get_title_part_matching_target_sequence(tagged_title, sorted_pos_sequences) for tagged_title in tagged_titles

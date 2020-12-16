@@ -56,6 +56,8 @@ Further optional command line arguments:
 * -lemma: tells the tagger to print the lemmas of the words also.
 * -sgml: tells the tagger to ignore tokens starting with '<' and ending
   with '>' (SGML tags).
+* -threshold p: tells the tagger to print all tags of a word with a probability higher than p times the largest tag probability. (The tagger will use the Forward-Backward algorithm instead of the Viterbi algorithm to annotate the data if this option is used.)
+* -lex file: tells the tagger to read additional lexicon entries form "file". The lexicon format is the same as that of the lexicon file used for training.
 
 The options below are for advanced users. Read the papers on the TreeTagger
 to fully understand their meaning.
@@ -83,6 +85,7 @@ flushes the output after reading an empty line. It expects a parameter
 file as argument and reads from stdin and writes to stdout. No command
 line options are supported. This program might be useful for
 implementing wrappers.
+
 
 
 
